@@ -20,6 +20,6 @@ or what architecture should I use. These desisions are carefully taken for you t
  `$ cookiecutter https://github.com/khalilSaidane/fastapi-project-template.git`
  
  ## Next step
- The next step is to crate a FastAPI application we have a tamplate for that too here.
+ The next step is to crate a FastAPI application we have a template for that too here.
 
   
