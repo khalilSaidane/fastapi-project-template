@@ -14,7 +14,7 @@ or what architecture should I use. These desisions are carefully taken for you t
   6. Generic CRUD class for all models.
   
  ## How to use it?
- To use this project template you have to [install cookiecutter] (https://cookiecutter.readthedocs.io/en/1.7.2/installation.html)
+ To use this project template you have to [install cookiecutter](https://cookiecutter.readthedocs.io/en/1.7.2/installation.html)
  Cookiecutter will allow you to create the project interactively. All you have to do is add paramaters like project name version ect...                
  Run this command:
  `$ cookiecutter https://github.com/khalilSaidane/fastapi-project-template.git`
