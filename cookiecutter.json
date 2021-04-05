@@ -1,0 +1,12 @@
+{
+    "project_slug": "my_fastapi_project",
+    "project_name": "My FastApi App",
+    "author": "",
+    "database_url": "sqlite:///./sql_app.db",
+    "allowed_hosts": "127.0.0.1, localhost",
+    "secret_key": "A secret key",
+    "prefix": "",
+    "version": "0.1.0",
+    "description": ""
+}
+
