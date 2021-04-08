@@ -17,9 +17,11 @@ or what architecture should I use. These desisions are carefully taken for you t
  To use this project template you have to [install cookiecutter](https://cookiecutter.readthedocs.io/en/1.7.2/installation.html)
  Cookiecutter will allow you to create the project interactively. All you have to do is add paramaters like project name version ect...                
  Run this command:
- `$ cookiecutter https://github.com/khalilSaidane/fastapi-project-template.git`
+ ```
+ $ cookiecutter https://github.com/khalilSaidane/fastapi-project-template.git
+ ```
  
  ## Next step
- The next step is to crate a FastAPI application we have a template for that too here.
+ The next step is to crate a FastAPI application we have a template for that too [here](https://github.com/khalilSaidane/fastapi-project-template.git).
 
   
