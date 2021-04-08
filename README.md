@@ -22,6 +22,6 @@ or what architecture should I use. These desisions are carefully taken for you t
  ```
  
  ## Next step
- The next step is to crate a FastAPI application we have a template for that too [here](https://github.com/khalilSaidane/fastapi-project-template.git).
+ The next step is to crate a FastAPI application we have a template for that too [here](https://github.com/khalilSaidane/fastapi-application-template.git).
 
   
