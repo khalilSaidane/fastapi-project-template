@@ -28,7 +28,7 @@ fileConfig(config.config_file_name)
 # for 'autogenerate' support
 # from myapp import mymodel
 # target_metadata = mymodel.Base.metadata
-from {{cookiecutter.project_slug}}.db.base_class import Base
+from {{cookiecutter.project_slug}}.db.database import Base
 
 target_metadata = Base.metadata
 
