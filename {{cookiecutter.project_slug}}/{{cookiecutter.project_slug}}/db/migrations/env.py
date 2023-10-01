@@ -29,6 +29,8 @@ fileConfig(config.config_file_name)
 # from myapp import mymodel
 # target_metadata = mymodel.Base.metadata
 from {{cookiecutter.project_slug}}.db.database import Base
+# Import all the models, so that Base has them before being
+# from users.models import User #
 
 target_metadata = Base.metadata
 
